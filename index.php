@@ -11,6 +11,50 @@
 
 
 ?>
+<html>
+<head>
+	<title> Доклады ФИТ НГУ </title>
+</head>
 
+<body>
+	<table border="0"><tr>
+		<td width="100%">
+			<center> Доклады LOL </center>
+		</td>
+	</tr></table>
 
-HELLO WORLD!
+	<table border="0"><tr>
+		<td width="400">
+			<?php
+				$d = dir($dir);
+				while($str = $d->read()){ 
+					if ($str{0} != '.') {
+						$f = fopen($str, "r");
+						$name = fgets($f);
+						echo $name, "<br>";
+					}
+				} 
+				$d->close();
+			?>
+			
+		</td>
+		<td width="100%">
+			<?php
+				if (isset($_GET["author"])) {
+					$f = fopen($_GET["author"], "r");
+					while($str = fgets($f))
+						echo $str;
+					fclose($f);
+				}
+				else
+					echo "Выберите статью";
+			?>
+		</td>
+	</tr></table>
+</body>
+</html>
+
+				
+
+</body>
+
