@@ -26,7 +26,7 @@
 	<table border="0"><tr>
 		<td width="400">
 			<?php
-				$d = dir($dir);
+				$d = dir("presentations");
 				while($str = $d->read()){ 
 					if ($str{0} != '.') {
 						$f = fopen($str, "r");
