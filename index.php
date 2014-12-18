@@ -14,7 +14,7 @@
 		<td width="300">
 			<?php
 				$dir = dir("presentations");
-				while (false !== ($str = $dir->read()))
+				while (false !== ($str = $dir->read())) {
 					if ($str{0} != '.') {
 						$f = fopen($str, "r");
 						$title = fgets($f);
