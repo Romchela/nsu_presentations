@@ -17,14 +17,14 @@
 </head>
 
 <body>
-	<table border="1"><tr height="300">
+	<table border="1" width="100%"><tr height="200">
 		<td width="100%">
 			<center> Presentations LOL </center>
 		</td>
 	</tr></table>
 
-	<table border="1"><tr>
-		<td width="400">
+	<table border="1" width="100%"><tr>
+		<td width="400px">
 			<?php
 				$d = dir("presentations");
 				while($str = $d->read()){ 
