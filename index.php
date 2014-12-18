@@ -26,7 +26,7 @@
 	<table border="0"><tr>
 		<td width="400">
 			<?php
-				$d = dir("presentations");
+			/*	$d = dir("presentations");
 				while($str = $d->read()){ 
 					if ($str{0} != '.') {
 						$f = fopen($str, "r");
@@ -36,7 +36,8 @@
 						echo $name, "<br>";
 					}
 				} 
-				$d->close();
+				$d->close();*/
+				$f = fopen("test", "r");
 			?>
 			
 		</td>
