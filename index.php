@@ -13,13 +13,13 @@
 ?>
 <html>
 <head>
-	<title> Доклады ФИТ НГУ </title>
+	<title> Presentations FIT NSU </title>
 </head>
 
 <body>
 	<table border="0"><tr>
 		<td width="100%">
-			<center> Доклады LOL </center>
+			<center> Presentations LOL </center>
 		</td>
 	</tr></table>
 
@@ -47,7 +47,7 @@
 					fclose($f);
 				}
 				else
-					echo "Выберите статью";
+					echo "Choose your hero";
 			?>
 		</td>
 	</tr></table>
