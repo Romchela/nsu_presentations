@@ -48,3 +48,16 @@
 					while($str = fgets($f))
 						echo $str;
 					fclose($f);
+				}
+				else
+					echo "Выберите статью";
+			?>
+		</td>
+	</tr></table>
+</body>
+</html>
+
+				
+
+</body>
+
