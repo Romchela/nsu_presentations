@@ -11,7 +11,7 @@
 		</td>
 	</tr></table>
 
-	<table border="1" width="100%"><tr>
+	<table style="margin: 30; table-layout:fixed;" align=center border="1" width="100%"><tr>
 		<td width="300">
 			<ul>
 			<?php
@@ -29,7 +29,7 @@
 			?>
 			</ul>
 		</td>
-		<td>
+		<td style="word-wrap:break-word;">
 			<?php
 				if ($_GET['author'] == "dserov") {
 					foreach(file("presentations/dserov") as $i) {
