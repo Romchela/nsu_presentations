@@ -1,0 +1,38 @@
+h1 {
+	font-family: 'Open Sans', 'Verdana', serif;
+	line-height: 0.7;
+}
+h2 {
+	font-family: 'Open Sans', 'Verdana', serif;
+	line-height: 0.7;
+}
+h3 {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+	line-height: 0.7;
+}
+h4 {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+	line-height: 0.7;
+}
+tr.menu {
+	font-family:'Open Sans', 'Verdana', sans-serif;
+	text-align: center;
+	font-weight: 700;
+}
+td.menu {
+	inherit;
+}
+td.menu:hover {
+	background: #F2D365;
+} 
+.text {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+	white-space: pre-wrap;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+}
+.font {
+	font-family: 'Open Sans', 'Verdana', sans-serif;
+}
+
