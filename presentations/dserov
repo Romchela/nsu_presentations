@@ -1,9 +1,9 @@
 Обзор современных мобильных операционных систем
 dserov
-<table style="margin: 30; table-layout:fixed;" align=center width=90%><tr><td style="word-wrap:break-word;">
+<table style="margin: 30; table-layout:fixed;" align=center><tr><td style="word-wrap:break-word;">
 					<h2 align=center>Обзор современных мобильных операционных систем</h2>
 					<h3 align=center>Дата доклада: 20.11.2014</h3></tr></td>
-					<tr><td><center><im: width=250 height=150 src=../images/dserov_mobileos.jpg alt="Мобильные ОС"></center></tr></td>
+					<tr><td><center><img width=250 height=150 src=../images/dserov_mobileos.jpg alt="Мобильные ОС"></center></tr></td>
 					<tr><td style="word-wrap:break=word;"><h3>Введение</h3>
 							<pre class="white-space: pre-wrap; -moz-hyphens: auto;	-webkit-hyphens: auto;	-ms-hyphens: auto;">&#9;Мобильные операционные системы - это те программные продукты, которые используются в мобильных устройствах (смартфонах, планшетах и других), организующие выполнение системных процессов и взаимодействие с пользователем. В настоящее время особенно распространены три из них - Android от компании Google, iOS от Apple и Windows Phone от Microsoft. В данном докладе речь пойдёт как раз о них. Будут затронуты основные особенности каждой системы, их история, а также некоторые детали, касающиеся разработки на каждой из них.</pre>
 					<h3>Google Android</h3>

@@ -21,7 +21,7 @@
 						$f = fopen("presentations/".$str, "r");
 						$title = fgets($f);
 						$author = fgets($f);
-						echo "<li><a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a></li>";
+						echo "<li><a href=\"index.php?author=".$author."\">".$title."</a></li>";
 						fclose($f);
 					}
 				}
