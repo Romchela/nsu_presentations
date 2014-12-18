@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title> Доклады ФИТ НГУ </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 
 <body>
@@ -12,6 +13,7 @@
 
 	<table border="1" width="100%"><tr>
 		<td width="300">
+			<ul>
 			<?php
 				$dir = dir("presentations");
 				while (false !== ($str = $dir->read())) {
@@ -20,11 +22,14 @@
 						$title = fgets($f);
 						$author = fgets($f);
 						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a><br>";
+						$name = fgets($f);
+						echo "<li><a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a></li>";
 						fclose($f);
 					}
 				}
 				$dir->close();
 			?>
+			</ul>
 		</td>
 		<td>
 			<?php
@@ -39,6 +44,7 @@
 					
 		</td>
 	</tr>
+	<!--<tr><td><a href = "vromchela.myjino.ru/projects/index.php?author=lipatkin">Архитектура ЭВМ</a></td></tr>//-->
 	</table>
 </body>
 </html>
