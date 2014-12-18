@@ -40,7 +40,7 @@
 			?>
 			
 		</td>
-		<td width="100%">
+		<td>
 			<?php
 				if (isset($_GET["author"])) {
 					$f = fopen($_GET["author"], "r");
