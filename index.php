@@ -30,6 +30,8 @@
 				while($str = $d->read()){ 
 					if ($str{0} != '.') {
 						$f = fopen($str, "r");
+						if ($f === false)
+							echo "Fail to open";
 						$name = fgets($f);
 						echo $name, "<br>";
 					}
