@@ -29,6 +29,9 @@
 		<td>
 			контент
 		</td>
-	</tr></table>
+	</tr>
+	<tr><td><a href = "vromchela.myjino.ru/projects/index.php?author=lipatkin">Архитектура ЭВМ</a></td>
+	</tr>
+	</table>
 </body>
 </html>
