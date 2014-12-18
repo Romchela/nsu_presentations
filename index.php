@@ -26,18 +26,17 @@
 	<table border="0"><tr>
 		<td width="400">
 			<?php
-			/*	$d = dir("presentations");
+				$d = dir("presentations");
 				while($str = $d->read()){ 
 					if ($str{0} != '.') {
-						$f = fopen($str, "r");
+						$f = fopen("presentations/".$str, "r");
 						if ($f === false)
 							echo "Fail to open";
 						$name = fgets($f);
 						echo $name, "<br>";
 					}
 				} 
-				$d->close();*/
-				$f = fopen("test", "r");
+				$d->close();
 			?>
 			
 		</td>
