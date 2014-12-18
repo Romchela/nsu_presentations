@@ -13,13 +13,13 @@
 ?>
 <html>
 <head>
-	<title> Presentations FIT NSU </title>
+	<title> Доклады групп 14201-14202 ФИТ НГУ  </title>
 </head>
 
 <body>
-	<table border="1" width="100%"><tr height="200">
+	<table border="1" width="100%"><tr height="150">
 		<td width="100%">
-			<center> Presentations LOL </center>
+			<center> Доклады гурпп 14201-14202 ФИТ НГУ </center>
 		</td>
 	</tr></table>
 
@@ -32,8 +32,9 @@
 						$f = fopen("presentations/".$str, "r");
 						if ($f === false)
 							echo "Fail to open";
-						$name = fgets($f);
-						echo $name, "<br>";
+						$title = fgets($f);
+						$author = fgets($f);
+						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a>";
 					}
 				} 
 				$d->close();
@@ -47,16 +48,3 @@
 					while($str = fgets($f))
 						echo $str;
 					fclose($f);
-				}
-				else
-					echo "Choose your hero";
-			?>
-		</td>
-	</tr></table>
-</body>
-</html>
-
-				
-
-</body>
-
