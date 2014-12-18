@@ -32,7 +32,11 @@
 		<td style="word-wrap:break-word;">
 			<?php
 				if ($_GET['author'] == "dserov") {
+					$count = 0;
 					foreach(file("presentations/dserov") as $i) {
+						$count++;
+						if (($count == 1) || ($count == 2))
+							continue;
 						echo $i;
 					}
 				}
