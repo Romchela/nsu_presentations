@@ -41,7 +41,7 @@
 					}
 				}
 				if ($_GET['author'] == "mkirichenko"){
-					$mk_webpage = file_get_contents('presentation/mkirichenko.html');
+					$mk_webpage = file_get_contents('presentations/mkirichenko.html');
 					echo $mk_webpage;
 				}
 			?>
