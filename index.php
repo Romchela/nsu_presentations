@@ -21,8 +21,6 @@
 						$f = fopen("presentations/".$str, "r");
 						$title = fgets($f);
 						$author = fgets($f);
-						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a><br>";
-						$name = fgets($f);
 						echo "<li><a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a></li>";
 						fclose($f);
 					}
@@ -34,10 +32,9 @@
 		<td>
 			<?php
 				if ($_GET['author'] == "dserov") {
-					$f = fopen("presentations/dserov", "r");
-					$title = fgets($f);
-					$author = fgets($f);
-					fclose($f);
+					foreach(file("presentations/dserov") as $i) {
+						echo $i;
+					}
 				}
 			?>
 					
