@@ -11,7 +11,7 @@
 		</td>
 	</tr></table>
 
-	<table style="margin: 30; table-layout:fixed;" align=center border="1" width="100%"><tr>
+	<table style="table-layout:fixed;" align=center border="1" width="100%"><tr>
 		<td width="300">
 			<ul>
 			<?php
