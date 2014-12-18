@@ -34,7 +34,7 @@
 							echo "Fail to open";
 						$title = fgets($f);
 						$author = fgets($f);
-						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a>";
+						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a><br>";
 					}
 				} 
 				$d->close();
