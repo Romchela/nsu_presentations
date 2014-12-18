@@ -18,8 +18,8 @@
 					if ($str{0} != '.') {
 						$f = fopen("presentations/".$str, "r");
 						$title = fgets($f);
-						$name = fgets($f);
-						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a>";
+						$author = fgets($f);
+						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a><br>";
 						fclose($f);
 					}
 				}
@@ -27,10 +27,17 @@
 			?>
 		</td>
 		<td>
-			контент
+			<?php
+				if ($_GET['author'] == "dserov") {
+					$f = fopen("presentations/dserov", "r");
+					$title = fgets($f);
+					$author = fgets($f);
+					//пока пишу
+					fclose($f);
+				}
+			?>
+					
 		</td>
-	</tr>
-	<tr><td><a href = "vromchela.myjino.ru/projects/index.php?author=lipatkin">Архитектура ЭВМ</a></td>
 	</tr>
 	</table>
 </body>
