@@ -12,9 +12,21 @@
 
 	<table border="1" width="100%"><tr>
 		<td width="300">
-			меню
+			<?php
+				$dir = dir("presentations");
+				while (false !== ($str = dir->read()))
+					if ($str{0} != '.') {
+						$f = fopen($str, "r");
+						$title = fgets($f);
+						$name = fgets($f);
+						echo "<a href=\"vromchela.myjino.ru/projects/index.php?author=".$author."\">".$title."</a>";
+						fclose($f);
+					}
+				}
+				$dir->close();
+			?>
 		</td>
-		<td width="100%">
+		<td>
 			контент
 		</td>
 	</tr></table>
