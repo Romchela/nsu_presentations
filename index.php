@@ -17,13 +17,13 @@
 </head>
 
 <body>
-	<table border="0"><tr>
+	<table border="1"><tr height="300">
 		<td width="100%">
 			<center> Presentations LOL </center>
 		</td>
 	</tr></table>
 
-	<table border="0"><tr>
+	<table border="1"><tr>
 		<td width="400">
 			<?php
 				$d = dir("presentations");
