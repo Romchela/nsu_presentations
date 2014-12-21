@@ -44,6 +44,15 @@
 					$mk_webpage = file_get_contents('presentations/mkirichenko.html');
 					echo $mk_webpage;
 				}
+				if ($_GET['author'] == "lipatkin") {
+					$count = 0;
+					foreach(file("presentations/lipatkin") as $i) {
+						$count++;
+						if (($count == 1) || ($count == 2))
+							continue;
+						echo $i;
+					}
+				}
 			?>
 					
 		</td>
