@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,6 +22,7 @@
 				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ <br><b>Липаткин А.</b></a><br>
 				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN <br><b>Викторов Н.</b></a><br>
 				<li><a href="index.php?author=semushenko">Беспроводная передача данных<br><b>Семушенко Е.</b></a><br>
+				<li><a href="index.php?author=kmarchenko">Облачные сервисы<br><b>Марченко К.</b></a><br>
 			</ul>
 
 		</td>
