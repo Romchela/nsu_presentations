@@ -16,13 +16,13 @@
 		<td width="500" valign="top">
 
 			<ul>
+				<li><a href="index.php?author=vishnevky">Язык программирования Python<br><b>Вишневский Р.</b></a><br>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем<br><b>Серов Д.</b></a><br>
 				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей<br><b>Кириченко М.</b></a><br>
 				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ <br><b>Липаткин А.</b></a><br>
 				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN <br><b>Викторов Н.</b></a><br>
-
-				<!-- тут надо вставить ссылки на свои доклады -->
 			</ul>
+
 		</td>
 		<td width=10>
 		</td>
@@ -30,6 +30,9 @@
 			<?php
 				if (isset($_GET['author']))
 					echo file_get_contents("presentations/".$_GET['author']);
+				else {
+					echo "Hello world!";
+				}
 			?>
 					
 		</td>
