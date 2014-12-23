@@ -21,6 +21,7 @@
 				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей<br><b>Кириченко М.</b></a><br>
 				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ <br><b>Липаткин А.</b></a><br>
 				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN <br><b>Викторов Н.</b></a><br>
+				<li><a href="index.php?author=semushenko">Беспроводная передача данных<br><b>Семушенко Е.</b></a><br>
 			</ul>
 
 		</td>
