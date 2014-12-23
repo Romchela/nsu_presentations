@@ -37,5 +37,7 @@
 		</td>
 	</tr>
 	</table>
+	<br><br>
+	<center>FIT NSU 2014 (c)</center>
 </body>
 </html>
