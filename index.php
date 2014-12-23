@@ -9,12 +9,6 @@
 	<table border="0" width="100%"><tr height="150">
 		<td width="100%">
 			<center> <h1> Доклады групп 14201 и 14202 ФИТ НГУ </h1> </center>
-			<center>
-				<a href="index.php?author=nviktorov"><img src="images/nviktorov"></a>
-
-				<!-- тут надо свои фото с ссылками вставить -->
-
-			</center>
 		</td>
 	</tr></table>
 
@@ -32,7 +26,7 @@
 		</td>
 		<td width=10>
 		</td>
-		<td style="word-wrap:break-word;">
+		<td valign=top style="word-wrap:break-word;">
 			<?php
 				if (isset($_GET['author']))
 					echo file_get_contents("presentations/".$_GET['author']);
