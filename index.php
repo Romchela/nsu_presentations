@@ -38,6 +38,7 @@
 	</tr>
 	</table>
 	<br><br>
-	<center>FIT NSU 2014 (c)</center>
+	<hr>
+	<center><b>FIT NSU 2014 (c)</b></center>
 </body>
 </html>
