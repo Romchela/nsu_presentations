@@ -6,7 +6,7 @@
 				<h2>
 					Беспроводная передача данных
 				</h2>
-				<img src="../images/semushenko_Wifi_sign.png" width="100">
+				<img src=images/semushenko_Wifi_sign.png width="100">
 				<h3>
 					Что такое беспроводная передача данных?
 				</h3>
@@ -25,7 +25,7 @@
 			 </p>
 		 </td>
 		 <td>
-			 <img src="../images/semushenko_Wireless_net.jpg" width="170">
+			 <img src=images/semushenko_Wireless_net.jpg width="170">
 		 </td>
 	 </tr>
  </table>
@@ -51,7 +51,7 @@
 	 </p>
  </td>
  <td align="right">
-	 <img src="../images/semushenko_nets.png" width="400">
+	 <img src=images/semushenko_nets.png width="400">
 	 </td>
 	 </tr>
 	 </table>
@@ -79,7 +79,7 @@
 			  </p>
 		  </td>
 		  <td>
-			  <img src="../images/semushenko_bluetooth.png" width="170">
+			  <img src=images/semushenko_bluetooth.png width="170">
 		  </td>
 		  </tr>
 			 </table>
@@ -113,7 +113,7 @@
 					 </p>
 				 </td>
 				 <td align="right">
-					 <img src="../images/semushenko_wifi.png" width="300"align="right">
+					 <img src=images/semushenko_wifi.png width="300" align="right">
 				 </td>
 				 </tr>
 			 </table>
@@ -147,7 +147,7 @@
 									 </p>
 								 </td>
 								 <td>
-									 <img src="../images/semushenko_wimax.jpg" width="200">
+									 <img src=images/semushenko_wimax.jpg width="200">
 								 </td>
 							 </tr>
 						 </table>
@@ -183,7 +183,7 @@
 										  </p>
 </td>
 <td>
-	<img src="../images/semushenko_gprs.png" width="200">
+	<img src=images/semushenko_gprs.png width="200">
 </td>
 </tr>
 </table>
@@ -195,10 +195,10 @@
 <table width="100%">
 	<tr>
 		<td align="center">
-		<img src="../images/semushenko_plus.gif" width="50">
+		<img src=images/semushenko_plus.gif width="50">
 		</td>
 		<td align="center">
-			<img src="../images/semushenko_minus.gif" width="50">
+			<img src=images/semushenko_minus.gif width="50">
 		</td>
 	</tr>
 	
@@ -230,7 +230,7 @@
 	</table>
 			
 	<center>
-		<img src="../images/semushenko_Wireless_net_phone.jpg" width="170">
+		<img src=images/semushenko_Wireless_net_phone.jpg width="170">
 		<h3>
 			Интересные факты
 	</h3>
@@ -251,7 +251,7 @@
 
 	<iframe width="560" height="315" src="//www.youtube.com/embed/tjd-5p6cIIU" frameborder="0" allowfullscreen></iframe>
 	<br>	<br>
-	<a href = "/~semushenko/public_html/talk/wireless.pptx" download>Скачать презентацию</a>
+	<a href ="mephisto.ccfit.nsu.ru/~semushenko/public_html/talk/wireless.pptx" download>Скачать презентацию</a>
 	</center>
 
 	
