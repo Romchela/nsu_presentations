@@ -71,13 +71,13 @@ div.r{
 </p></font>
 </td>
     <td > 
-<img src="im_Software-defectuoso-en-Windows.jpg">
+<img src="images/im_Software-defectuoso-en-Windows.jpg">
 </td>
 </tr>
 
 <tr>
 <td > 
-<img src="im_67-1.gif">
+<img src="images/im_67-1.gif">
 </td>
 
 
@@ -115,12 +115,12 @@ Symbian, Apple iOS, BlackBerry, Android, Windows Phone 7 и др. Пользов
 </ul>
 </p></font>
 </td>
-<td><img src="im_2.jpg.jpg">
+<td><img src="images/im_2.jpg.jpg">
 </td>
 </tr>
 
 <tr>
-<td><img src="im_boom.jpg"></td>
+<td><img src="images/im_boom.jpg"></td>
 <td>
 <p align = "center"><font size = "5" color=" #B03060">Работа антивируса</font></p>
 <font size = "4" color = "#B03060">Поиск в базе данных антивирусного ПО сигнатур вирусов.<br>
@@ -163,10 +163,10 @@ Symbian, Apple iOS, BlackBerry, Android, Windows Phone 7 и др. Пользов
 <br><br>
 <table border="0" cellspacing="0" width="1200px" height="250px" align="center">
 <tr>
-<td width="250px" height="300px"><img width="300px" height="250px" src="im_es.jpg"></td>
-<td width="250px" height="300px"><img width="300px" height="250px" src="im_kas.jpg">  </td>
-<td width="250px" height="300px" ><img width="300px" height=250px" src="im_drw.png">  </td>
-<td width="250px" height="300px"><img width="300px" height="250px" src="im_avast.jpg">  </td>
+<td width="250px" height="300px"><img width="300px" height="250px" src="images/im_es.jpg"></td>
+<td width="250px" height="300px"><img width="300px" height="250px" src="images/im_kas.jpg">  </td>
+<td width="250px" height="300px" ><img width="300px" height=250px" src="images/im_drw.png">  </td>
+<td width="250px" height="300px"><img width="300px" height="250px" src="images/im_avast.jpg">  </td>
 </tr></table>
 <br>
 <br>
@@ -180,5 +180,5 @@ Symbian, Apple iOS, BlackBerry, Android, Windows Phone 7 и др. Пользов
 <table border="0" cellspacing="0" width="800px" height="500px" align="center">
 <tr>
 <td align="bottom" valign = top>
-	<img src = "im_1.jpg.jpg" width = 600px>
+	<img src = "images/im_1.jpg.jpg" width = 600px>
 	</td></tr></table>
