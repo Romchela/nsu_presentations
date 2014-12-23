@@ -6,7 +6,7 @@
 </head>
 
 <body>
-	<table border="1" width="100%"><tr height="150">
+	<table border="0" width="100%"><tr height="150">
 		<td width="100%">
 			<center> <h1> Доклады групп 14201 и 14202 ФИТ НГУ </h1> </center>
 			<center>
@@ -18,12 +18,8 @@
 		</td>
 	</tr></table>
 
-	<table style="table-layout:fixed;" align=center border="1" width="100%"><tr>
-		<td width="300" valign="top">
-
-			<b>Вишневский Роман</b>
-			<br><font size=5>Язык программирования Python</font>
-			<br><br>
+	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
+		<td width="500" valign="top">
 
 			<ul>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем (Серов Д.)</a><br>
