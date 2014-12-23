@@ -2,7 +2,7 @@
 <head>
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.ru/~vishnevsky/files/style.css"/>	
+	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.nsu.ru/~vishnevsky/files/style.css"/>	
 </head>
 
 <body>
@@ -20,6 +20,10 @@
 
 	<table style="table-layout:fixed;" align=center border="1" width="100%"><tr>
 		<td width="300" valign="top">
+
+			<b>Вишневский Роман</b>
+			<br><font size=5>Язык программирования Python</font>
+			<br><br>
 
 			<ul>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем (Серов Д.)</a><br>
