@@ -2,6 +2,7 @@
 <head>
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.ru/~vishnevsky/files/style.css"/>	
 </head>
 
 <body>
@@ -17,19 +18,21 @@
 		</td>
 	</tr></table>
 
-	<table style="table-layout:fixed;" align=center border="1" width="100%"><tr>
+	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
 		<td width="300" valign="top">
+
+			<table>
+
 			<ul>
-				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем</a>
-				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей</a>
-				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ</a>	
-				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN</a>
+				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем (Серов Д.)</a><br>
+				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей (Кириченко М.)</a><br>
+				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ (Липаткин А.)</a><br>
+				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN (Викторов Н.)</a><br>
 
 				<!-- тут надо вставить ссылки на свои доклады -->
 			</ul>
 		</td>
 		<td width=10>
-			11
 		</td>
 		<td style="word-wrap:break-word;">
 			<?php
@@ -37,6 +40,8 @@
 					echo file_get_contents("presentations/".$_GET['author']);
 			?>
 					
+		</td>
+		<td width=10>
 		</td>
 	</tr>
 	</table>
