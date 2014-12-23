@@ -22,10 +22,10 @@
 		<td width="500" valign="top">
 
 			<ul>
-				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем (Серов Д.)</a><br>
-				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей (Кириченко М.)</a><br>
-				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ (Липаткин А.)</a><br>
-				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN (Викторов Н.)</a><br>
+				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем<br><b>Серов Д.</b></a><br>
+				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей<br><b>Кириченко М.</b></a><br>
+				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ <br><b>Липаткин А.</b></a><br>
+				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN <br><b>Викторов Н.</b></a><br>
 
 				<!-- тут надо вставить ссылки на свои доклады -->
 			</ul>
