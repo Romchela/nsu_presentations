@@ -28,6 +28,9 @@
 				<!-- тут надо вставить ссылки на свои доклады -->
 			</ul>
 		</td>
+		<td width=10>
+			11
+		</td>
 		<td style="word-wrap:break-word;">
 			<?php
 				if (isset($_GET['author']))
