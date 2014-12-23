@@ -1,0 +1,10 @@
+<div style="font-family: Helvetica;">
+	<p style="word-break: break-all; margin-top: 3; margin-bottom: 3; font-size:40;" align="center">Принципы создания компьютерных сетей.<br>
+	Семиуровневая модель OSI/ISO.</p>
+	<br>
+	<p style="word-break: break-all; margin-top: 3; margin-bottom: 3; font-size: 25;">Компьютерные сети</p>
+	<p style="word-break: break-all; margin-bottom: 1; margin-top: 0; font-size:20;">Термин "компьютерные сети" обозначает набор автономных компьютеров, связанных между собой. Два компьютера являются связанными, если они могут обмениваться информацией. Сети также могут объединяться. Самым известным примером сети является Интернет.</p>
+	<p style="word-break: break-all; margin-top: 3; margin-bottom: 3;"><img src="../images/mkirichenko_1.png" width="70%"></p>
+	<p style="margin-bottom: 1; font-size: 15;"><i>Топологии сетей</i></p>
+	<br>
+	<p style="word-break: break-all; margin-bottom: 1; margin-top: 0; font-size:20;">Кольцевая 
