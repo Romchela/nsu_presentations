@@ -13,10 +13,10 @@
 	</tr></table>
 
 	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
-		<td width="500" valign="top">
+		<td width="30%" valign="top">
 
 			<ul>
-				<li><a href="index.php?author=vishnevky">Язык программирования Python<br><b>Вишневский Р.</b></a><br>
+				<li><a href="index.php?author=vishnevsky">Язык программирования Python<br><b>Вишневский Р.</b></a><br>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем<br><b>Серов Д.</b></a><br>
 				<li><a href="index.php?author=mkirichenko">Принципы создания компьютерных сетей<br><b>Кириченко М.</b></a><br>
 				<li><a href="index.php?author=lipatkin">Архитектура ЭВМ <br><b>Липаткин А.</b></a><br>
