@@ -9,11 +9,11 @@ binder
 <div class="quote">
 "В мире ООП все состоит из объектов!"
 </div>
-<center><img src="../images/binder_slide3.png" width=30%></center>
+<center><img src="images/binder_slide3.png" width=30%></center>
 <h2>Принципы ООП</h2>
-<center><img src="../images/binder_principles.png" width=35%></center>
+<center><img src="images/binder_principles.png" width=35%></center>
 <h3>Инкапсуляция</h3>
-<center><img src="../images/binder_slide4.png" width=40%></center>
+<center><img src="images/binder_slide4.png" width=40%></center>
 <div class="sl1">
 Инкапсуляция - это свойство системы, позволяющее объединить данные и методы, работающие с ними, в один класс, и скрыть детали реализации от пользователя, что защищает и то, и другое от внешнего вмешательства или неправильного использования. Класс - это то, что поддерживает инкапсуляцию.
 
@@ -29,18 +29,18 @@ binder
 4. Сокрытие информации. Когда доступ к данным осуществляется только через методы, можно скрыть детали реализации объекта. Позднее, если реализация изменится, придется изменить лишь реализацию методов доступа к полям. Те же части программы, которые использовали этот класс, не будут затронуты.<br>
 </li>
 </ul>
-<center><img src="../images/binder_slide5.png" width=40%></center>
+<center><img src="images/binder_slide5.png" width=40%></center>
 </div>
 <hr color=white>
 <h3>Наследование</h3>
-<center><img src="../images/binder_nasl.png" width=50%></center>
+<center><img src="images/binder_nasl.png" width=50%></center>
 <div class="sl1">
 Наследование - это свойство системы, позволяющее описать новый класс на основе уже существующего с частично или полностью заимствующейся функциональностью. Класс, от которого производится наследование, называется базовым, родительским или суперклассом. Новый класс - потомком, наследником, дочерним или производным классом. Наследование позволяет построить иерархию классов - единую древовидную структуру с общим корнем, и дает возможность определения новых классов на основе существующих с возможностью добавления или переопределения данных и методов.
 </div>
 <div class="quote">
 Большинство классификаций, по сути своей, есть наглядный пример наследования классов
 </div>
-<center><img src="../images/binder_nasl.png" width=50%></center>
+<center><img src="images/binder_nasl.png" width=50%></center>
 <hr color=white>
 <h3>Полиморфизм</h3>
 <div class="sl1">
