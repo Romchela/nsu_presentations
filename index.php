@@ -23,6 +23,7 @@
 				<li><a href="index.php?author=nviktorov">Системы контроля версий. SVN <br><b>Викторов Н.</b></a><br>
 				<li><a href="index.php?author=semushenko">Беспроводная передача данных<br><b>Семушенко Е.</b></a><br>
 				<li><a href="index.php?author=kmarchenko">Облачные сервисы<br><b>Марченко К.</b></a><br>
+				<li><a href="index.php?author=binder">Объектно-ориентированное программирование<br><b>Биндер С.</b></a><br>
 			</ul>
 
 		</td>
