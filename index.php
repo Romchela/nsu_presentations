@@ -13,7 +13,7 @@
 	</tr></table>
 
 	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
-		<td width="500" valign="top">
+		<td width="30%" valign="top">
 
 			<ul>
 				<li><a href="index.php?author=vishnevsky">Язык программирования Python<br><b>Вишневский Р.</b></a><br>
