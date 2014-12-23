@@ -18,10 +18,8 @@
 		</td>
 	</tr></table>
 
-	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
+	<table style="table-layout:fixed;" align=center border="1" width="100%"><tr>
 		<td width="300" valign="top">
-
-			<table>
 
 			<ul>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем (Серов Д.)</a><br>
