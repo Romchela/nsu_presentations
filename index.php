@@ -33,7 +33,7 @@
 
 				<li><a href="index.php?author=klokov">Взлом почтовых ящиков<br><b>Клоков Д.</b></a><br>
 
-				<li><a href="index.php?author=timoshok">НЕ СДЕЛАНО<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=timoshok">Сжатие информации<br><b>Тимошок А.</b></a><br>
 				<li><a href="index.php?author=chernova">СПАМ<br><b>Чернова Е.</b></a><br>
 				<li><a href="index.php?author=abramov">3D принтеры<br><b>Абрамов А.</b></a><br>
 				<li><a href="index.php?author=viktorov">Операционные системы реального времени<br><b>Викторов Г.</b></a><br>
