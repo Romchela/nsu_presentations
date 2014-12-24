@@ -33,10 +33,11 @@
 
 				<li><a href="index.php?author=klokov">Взлом почтовых ящиков<br><b>Клоков Д.</b></a><br>
 
+				<li><a href="index.php?author=timoshok">НЕ СДЕЛАНО<br><b>Тимошок А.</b></a><br>
 				<li><a href="index.php?author=chernova">СПАМ<br><b>Чернова Е.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Абрамов А.</b></a><br>
+				<li><a href="index.php?author=abramov">3D принтеры<br><b>Абрамов А.</b></a><br>
 				<li><a href="index.php?author=viktorov">Операционные системы реального времени<br><b>Викторов Г.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Жосов Н.</b></a><br>
+				<li><a href="index.php?author=zhosov">Устройство и назначение материнской платы<br><b>Жосов Н.</b></a><br>
 				<li><a href="index.php?author=loginovsky">Криптовалюты<br><b>Логиновский С.</b></a><br>
 				<li><a href="index.php?author=mahina">Сжатие данных<br><b>Махина Е.</b></a><br>
 				<li><a href="index.php?author=rsamarin">HTTP протоколы. Использование с примерами<br><b>Самарин Р.</b></a><br>
