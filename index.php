@@ -30,22 +30,15 @@
 				<li><a href="index.php?author=shashok">Git-репозиторий<br><b>Шашок Н.</b></a><br>
 
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Манаков Г.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Абрамов А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Викторов Г.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Жосов Н.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Клоков Д.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Логиновский С.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Махина Е.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Самарин Р.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Ян И.</b></a><br>
 			</ul>
 
 		</td>
