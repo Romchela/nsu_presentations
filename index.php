@@ -39,7 +39,7 @@
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Жосов Н.</b></a><br>
 				<li><a href="index.php?author=loginovsky">Криптовалюты<br><b>Логиновский С.</b></a><br>
 				<li><a href="index.php?author=mahina">Сжатие данных<br><b>Махина Е.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Самарин Р.</b></a><br>
+				<li><a href="index.php?author=rsamarin">HTTP протоколы. Использование с примерами<br><b>Самарин Р.</b></a><br>
 				<li><a href="index.php?author=yan">Методы ввода<br><b>Ян И.</b></a><br>
 			</ul>
 
