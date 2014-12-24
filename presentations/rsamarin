@@ -1,4 +1,4 @@
-	            <font size="8" face="airport"><center>Http протокол. Его использование с примерами.</center></font>
+	            <font face="airport"><center><h1>Http протокол. Его использование с примерами.</h1></center></font>
 
 					
 					
@@ -9,7 +9,7 @@
 
 <center>
 <dl class="spoiler">
-<dt><center>Что это такое?</center></dt>
+<dt><center><h2>Что это такое?</h2></center></dt>
 <dd>HTTP (англ. HyperText Trans<hfer Protocol — «протокол передачи гипертекста») — протокол прикладного уровня передачи данных. Используется сейчас повсеместно, преимущественно браузерами, но не только.
 Позволяет устроить связку клиент-сервер быстро и просто, давно уже обкатан, имеет возможности для расширения, а так же простую структуру, понятную человеку.<br>
 <IMG SRC="http://aabramoff.ru/wp-content/uploads/2013/05/HTTP-wallpaper.jpg" NAME="HARDCORNIE POCANI" WIDTH=680 HEIGHT=510 BORDER=0></dd>
