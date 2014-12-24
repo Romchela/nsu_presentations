@@ -1,0 +1,101 @@
+<style type="text/css">
+			p{
+			text-align: center;
+			}
+			.el {
+			font-family: "Segoe UI", "Helvetica Neue", Helvetica, sans-serif;
+			position: relative;
+			width: 60%;
+			overflow: hidden;
+			background: #ffffff;
+			margin: 0 auto;
+			margin-top: 20px;
+			border: solid 1px #cccccc;
+			border-radius:10px; 
+			-webkit-border-radius:10px; 
+			-moz-border-radius:10px; 
+			-khtml-border-radius: 10px;
+			}
+			.newim{
+			width: 400;
+			height: 300;
+			margin-left: 0;
+			float: left;
+			padding-right: 25;
+			}
+			.zagolovokn{
+			font-family: "Segoe UI", "Helvetica Neue", Helvetica, Tahoma, Arial;
+			text-align: justify;
+			color: black;
+			padding-right: 25px;
+			float:bottom;
+			font-size: 30px;;
+			font-weight:bold;
+			text-align:left;
+			line-height: 1.2;
+			margin:0;
+			margin-top:-15px;
+			}
+		</style>	
+<title>Классификация языков программирования</title>
+<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Классификация языков программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/1.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">В настоящее время существует множество языков программирования: от самых примитывных и привычных, до абстрактных и непонятных, таких как <font color="red">brainfuck</font>.<br>
+		Поэтому нам стоит рассмотреть различные способы их классификации.</p></div>
+		<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:red;">Классификация по уровню абстракции</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/2.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;"><ul style="font-size:20px;"><li>Низкоуровневые</li><li>Высокоуровневые</li><li>Сверхвысокоуровневые</li></ul></p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Низкоуровневые языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/3.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;"> Это языки программирования, близкие к программированию непосредственно в машинных кодах используемого реального или виртуального процессора.<br>
+Как правило, низкоуровневый язык программирования использует особенности конкретного семейства 
+процессоров. Общеизвестный пример низкоуровнего языка - <font color=red>ассемблер</font>.
+</p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Высокоуровневые языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/4.png">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Это язык программирования, разработанный для быстроты и удобства использования программистом. Основная черта высокоуровневых языков - это абстракция, то есть введение смысловых конструкций, кратко описывающих такие структуры данных и операции над ними, описания которых на низкоуровневом языке программирования очень длинны и сложны для понимания. Самый распространённый пример - язык <font color=red>Си</font>.
+</p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Сверхвысокоуровневые языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/5.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Язык программирования с очень высоким уровнем абстракции. В отличие от языков программирования высокого уровня, где описывается принцип "как нужно сделать", в сверхвысокоуровневых языках программирования описывается лишь принцип "что нужно сделать".<br>
+		Некоторые сверхвысокоуровневые языки программирования могут даже распозновать синтаксис английского языка, например, <font color=red>Inform v7</font>.
+</p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:red;">По степени ориентации на ЭВМ</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/6.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Языки программирования также делятся на <font color=#0664F1>машинно-зависимые</font> и <font color=#0664F1>машинно-независимые</font>, к машинно-зависимым языкам программирования относятся машинные языки и ассемблеры, которые используются в системном программировании. Программа на машинно-зависимом языке может выполняться только на ЭВМ данного типа. Программа на машинно-независимом ЯП после трансляции на машинный язык становится машинно-зависимой. Этот признак языка программирования определяет возможность переноса на ЭВМ другого типа.
+</p></div>
+<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:red;">Классы языков программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/8.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;"><ul style="font-size:20px;"><li>Процедурные</li><li>Декларативные</li><li>Объектно-ориентированные</li></ul></p></div>
+		<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Процедурные языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/9.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Такой язык пограммирования предоставляет возможность программисту определять каждый шаг в процессе решения задачи. Особенность таких языков программирования состоит в том, что задачи разбиваются на шаги и решаются шаг за шагом. Используя процедурный язык, программист определяет языковые конструкции для выполнения последовательности алгоритмических шагов. Самый просто пример такого язвка - <font color=red>Pascal</font>.
+</p></div>
+		<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Декларативные языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/10.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Особое внимание в декларативном программировании уделяется тому, что нужно сделать, а не тому как это нужно сделать. Здесь главным является точная формулировка задачи, а выбор и применение необходимого алгоритма для ее решения - проблема исполняющей системы, но не программиста. В него также входят <font color=#0664F1>функциональные</font> и <font color=#0664F1>логические</font> языки программирования.<br>В <font color=#0664F1>функциональном</font> программировании процесс вычисления трактуется как вычисление значений функций в математическом понимании последних.<br><font color=#0664F1>Логическое</font> программирование основано на выводе новых фактов из данных фактов согласно заданным логическим правилам. Логическое программирование основано на теории математической логики.
+</p></div>
+		<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Объектно-ориентированные языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/11.gif">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">В центре ООП находится понятие объекта. <font color=#0664F1>Объект</font> - это сущность, которой можно посылать сообщения и которая может на них реагировать, используя свои данные. Объект - это экземпляр <font color=#0664F1>класса</font>. Данные объекта скрыты от остальной программы. Сокрытие данных называется <font color=red>инкапсуляцией</font>. Наличие инкапсуляции достаточно для объектности языка программирования, но ещё не означает его объектной ориентированности - для этого требуется наличие <font color=red>наследования</font>.<br>Но даже наличие инкапсуляции и наследования не делает язык программирования в полной мере объектным с точки зрения ООП. Основные преимущества ООП проявляются только в том случае, когда в языке программирования реализован <font color=red>полиморфизм</font> - возможность объектов с одинаковой спецификацией иметь различную реализацию.
+</p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:red;">По способу исполнения</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/7.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Различают <font color=#0664F1>интерпретируемые</font> и <font color=#0664F1>компилируемые</font> языки программирования.<br> В компилируемых языках программирования исходный код, написанный пользователем, преобразуется компилятором в машинный код, исполняемый компьютером.
+Компилятор  выполняет преобразование исходного текста программы, написанного на языке высокого уровня, в машинный язык, язык близкий к машинному, или в объектный модуль. <br> В интерпретируемом же языке программирования исходный код программы не преобразовывается в машинный для непосредственного выполнения центральным процессором, а исполняется с помощью интерпретатора, который анализирует команды или операторы программы и немедленно выполняет их.
+</p></div>
+				<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:#0664F1;">Эзотерические языки программирования</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://mephisto.ccfit.nsu.ru/~saltuk/images/presentation/12.jpg">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Эзотерические языки разработаны для исследования границ возможностей разработки языков программирования, для доказательства потенциально возможной реализации некой идеи в качестве произведения программного искусства, или в качестве шутки.<br>Основные типы эзотерических языков можно разделить на следующие:
+		 <ul style="font-size:20px;">
+		<li><font color=red>INTERCAL</font>-подобные. Основная идея - максимальное отличие от существующих языков
+</li><li><font color=red>Brainfuck</font>-подобные. Ориентированы на сокращение синтаксиса (оригинальный Brainfuck имеет 8 команд)
+</li><li>Использующие многомерные представления программ
+</li><li>Cозданные для проверки математических концепций
+</li><li>Основанные на копировании собственного кода
+</li><li>С литературным синтаксисом
+</li><li>С нечеловеческой логикой</li></ul></p></div>
+	<div class="el" style="padding:25px; min-width:720px;"><p class="zagolovokn" style="text-align:center; color:red;">Скачать</p>
+		<img class="newim" style="padding-right:25px; padding-top:15px;" src="http://im2-tub-ru.yandex.net/i?id=41580199b481d21022c53906b6db0fba-33-144&n=21">
+		<p style="text-align:justify; font-size:20px; margin-bottom:0; padding:0px;">Вы можете скачать эту презентацию, нажав <a style="color:red;" href="homework.ppt">сюда</a>.
+</p></div>

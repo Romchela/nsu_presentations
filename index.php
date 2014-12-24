@@ -25,6 +25,7 @@
 				<li><a href="index.php?author=kmarchenko">Облачные сервисы<br><b>Марченко К.</b></a><br>
 				<li><a href="index.php?author=binder">Объектно-ориентированное программирование<br><b>Биндер С.</b></a><br>
 				<li><a href="index.php?author=im">Антивирусные программы<br><b>Им М.</b></a><br>
+				<li><a href="index.php?author=im">Классификация языков программирования<br><b>Салтук К.</b></a><br>
 			</ul>
 
 		</td>
