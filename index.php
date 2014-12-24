@@ -27,7 +27,25 @@
 				<li><a href="index.php?author=im">Антивирусные программы<br><b>Им М.</b></a><br>
 				<li><a href="index.php?author=saltuk">Классификация языков программирования<br><b>Салтук К.</b></a><br>
 				<li><a href="index.php?author=boldakov">HTML 5<br><b>Болдаков В.</b></a><br>
-<li><a href="index.php?author=shashok">Git-репозиторий<br><b>Шашок Н.</b></a><br>
+				<li><a href="index.php?author=shashok">Git-репозиторий<br><b>Шашок Н.</b></a><br>
+
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
+				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Тимошок А.</b></a><br>
 			</ul>
 
 		</td>
