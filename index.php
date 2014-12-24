@@ -2,7 +2,7 @@
 <head>
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.nsu.ru/~vishnevsky/files/style.css"/>	
+	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.nsu.ru/~vishnevsky/files/style.css"/>
 </head>
 
 <body>
@@ -26,6 +26,7 @@
 				<li><a href="index.php?author=binder">Объектно-ориентированное программирование<br><b>Биндер С.</b></a><br>
 				<li><a href="index.php?author=im">Антивирусные программы<br><b>Им М.</b></a><br>
 				<li><a href="index.php?author=im">Классификация языков программирования<br><b>Салтук К.</b></a><br>
+				<li><a href="index.php?author=boldakov">HTML 5<br><b>Болдаков В.</b></a><br>
 			</ul>
 
 		</td>
@@ -39,7 +40,7 @@
 					echo "Hello world!";
 				}
 			?>
-					
+
 		</td>
 		<td width=10>
 		</td>
