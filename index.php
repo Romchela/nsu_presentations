@@ -33,7 +33,7 @@
 
 				<li><a href="index.php?author=klokov">Взлом почтовых ящиков<br><b>Клоков Д.</b></a><br>
 
-				<li><a href="index.php?author=klokov">СПАМ<br><b>Чернова Е..</b></a><br>
+				<li><a href="index.php?author=chernova">СПАМ<br><b>Чернова Е.</b></a><br>
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Абрамов А.</b></a><br>
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Викторов Г.</b></a><br>
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Жосов Н.</b></a><br>
