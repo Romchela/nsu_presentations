@@ -24,6 +24,6 @@ This iterates over the file only once.
 <br><br><b>Huge standard library.</b> Just to pick some random examples, Python ships with several XML parsers, csv & zip file readers & writers, libraries for using pretty much every internet protocol and data type, etc.
 <br><br><b>Great support for building web apps.</b> Along with Ruby and JavaScript, Python is very popular in the web development community. There are several mature frameworks and a supportive community to get you started.
 <br><br>
-<u>You can download this presentaion <a href = "mephisto.ccfit.ru/~vishnevsky/talk/Python.ppt" download>here</a>.</u>
+<u>You can download this presentaion <a href = "http://mephisto.ccfit.ru/~vishnevsky/talk/Python.ppt" download>here</a>.</u>
 	
 
