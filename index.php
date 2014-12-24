@@ -40,7 +40,7 @@
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Логиновский С.</b></a><br>
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Махина Е.</b></a><br>
 				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Самарин Р.</b></a><br>
-				<li><a href="index.php?author=shashok">ALLO WHERE ARE YOU?<br><b>Ян И.</b></a><br>
+				<li><a href="index.php?author=yan">Методы ввода<br><b>Ян И.</b></a><br>
 			</ul>
 
 		</td>
