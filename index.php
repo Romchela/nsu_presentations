@@ -3,11 +3,6 @@
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.nsu.ru/~vishnevsky/files/style.css"/>
-	<script language="javascript">
-		var h = window.location.href;
-		var chs = document.getElementById("users");
-		chs.style.color = blue;
-	</script>
 </head>
 
 <body>
@@ -49,6 +44,12 @@
 				<li><a href="index.php?author=yan">Методы ввода<br><b>Ян И.</b></a><br>
 			</ul>
 			</div>
+		<script type="text/javascript">
+			var elems = document.getElementById("users").getElementsByTagName("ul")[0].getElementsByTagName("a");
+			for (var  i = 0; i < elems.length; i++)
+				if (elems[i].href == window.location.href)
+					ch[i].style.color = "EE5522";
+		</script>
 		</td>
 		<td width=10>
 		</td>
