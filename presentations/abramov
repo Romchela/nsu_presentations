@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 <div>
-<p align='center'><a href='http://ccfit.nsu.ru/~abramov/talk/3d-printer.pptx'>Здесь лежит презентация</a></p>
-=======
 <br>
 <p align='center'><a href='http://mephisto.ccfit.nsu.ru/~abramov/3d-printer.pptx'>Здесь лежит презентация</a></p>
->>>>>>> FETCH_HEAD
 <br>
-<div class="print">
 <p>
 <p align='center'>Вообщем, начну свое повествование.</p>
 <p>3d-принтер - это специальное устройство для вывода трёхмерных данных. 
@@ -44,8 +39,4 @@
 <br><br>
 <p align='center'>Спасибо за внимание!</p>
 <p align='center'>P.S. куча картинок будет попозже)</p>
-<<<<<<< HEAD
 </div>
-=======
-</div>
->>>>>>> FETCH_HEAD
