@@ -48,7 +48,7 @@
 			var elems = document.getElementById("users").getElementsByTagName("ul")[0].getElementsByTagName("a");
 			for (var  i = 0; i < elems.length; i++)
 				if (elems[i].href == window.location.href)
-					ch[i].style.color = "EE5522";
+					elems[i].style.color = "EE5522";
 		</script>
 		</td>
 		<td width=10>
