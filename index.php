@@ -3,6 +3,11 @@
 	<title> Доклады ФИТ НГУ </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel = "stylesheet" type = "text/css" href = "http://mephisto.ccfit.nsu.ru/~vishnevsky/files/style.css"/>
+	<script language="javascript">
+		var h = window.location.href;
+		var chs = document.getElementById("users");
+		chs.style.color = blue;
+	</script>
 </head>
 
 <body>
@@ -14,7 +19,7 @@
 
 	<table style="table-layout:fixed;" align=center border="0" width="100%"><tr>
 		<td width="30%" valign="top">
-
+			<div id="users">
 			<ul>
 				<li><a href="index.php?author=vishnevsky">Язык программирования Python<br><b>Вишневский Р.</b></a><br>
 				<li><a href="index.php?author=dserov">Обзор современных мобильных операционных систем<br><b>Серов Д.</b></a><br>
@@ -43,7 +48,7 @@
 				<li><a href="index.php?author=rsamarin">HTTP протоколы. Использование с примерами<br><b>Самарин Р.</b></a><br>
 				<li><a href="index.php?author=yan">Методы ввода<br><b>Ян И.</b></a><br>
 			</ul>
-
+			</div>
 		</td>
 		<td width=10>
 		</td>
