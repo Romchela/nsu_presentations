@@ -40,7 +40,15 @@
 				<li><a href="index.php?author=zhosov">Устройство и назначение материнской платы<br><b>Жосов Н.</b></a><br>
 				<li><a href="index.php?author=loginovsky">Криптовалюты<br><b>Логиновский С.</b></a><br>
 				<li><a href="index.php?author=mahina">Сжатие данных<br><b>Махина Е.</b></a><br>
+<<<<<<< Updated upstream
 				<li><a href="index.php?author=rsamarin">HTTP протоколы. Использование с примерами<br><b>Самарин Р.</b></a><br>
+=======
+<<<<<<< HEAD
+				<li><a href="index.php?author=shashok">DOBAV TEMU<br><b>Самарин Р.</b></a><br>
+=======
+				<li><a href="index.php?author=rsamarin">HTTP протоколы. Использование с примерами<br><b>Самарин Р.</b></a><br>
+>>>>>>> FETCH_HEAD
+>>>>>>> Stashed changes
 				<li><a href="index.php?author=yan">Методы ввода<br><b>Ян И.</b></a><br>
 			</ul>
 
@@ -52,7 +60,7 @@
 				if (isset($_GET['author']))
 					echo file_get_contents("presentations/".$_GET['author']);
 				else {
-					echo "Hello world!";
+					echo "Выберите доклад из  меню слева, чтобы просмотреть его.";
 				}
 			?>
 
