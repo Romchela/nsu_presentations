@@ -1,22 +1,3 @@
-body {
-background: url(back.png);
-margin: auto;
-}
-#BoldakovPage {
-padding: 15px;
-background: #ffffff;
-margin: 10%;
-margin-top: 0%;
-margin-bottom: 0%;
-width: 80%;
-height: 0px auto;
-}
-#BoldakovNews {
-border: 3px dashed #820203;
-padding: 10px;
-margin: 10px;
-}
-</style>
 <body>
 <div id = 'BoldakovPage'>
 <div id = 'BoldakovNews'>
